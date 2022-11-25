@@ -1,0 +1,13 @@
+br\unipar\flashcar\service\CorService.class
+br\unipar\flashcar\model\Marca.class
+br\unipar\flashcar\model\Modelo.class
+br\unipar\flashcar\exception\DescricaoInvalidaException.class
+br\unipar\flashcar\service\MarcaService.class
+database\ewpository\CorRepository.class
+br\unipar\flashcar\model\Cor.class
+database\DatabaseConnection.class
+br\unipar\flashcar\model\Carro.class
+br\unipar\flashcar\service\ModeloService.class
+br\unipar\flashcar\Flashcar.class
+database\ewpository\ModeloRepository.class
+database\ewpository\MarcaRepository.class
